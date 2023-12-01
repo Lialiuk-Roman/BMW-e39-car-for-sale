@@ -1,0 +1,289 @@
+@font-face {
+    font-family: "Roboto";
+    src:url("C:\Users\Lenovo\OneDrive\Рабочий стол\Roboto-Light.ttf") 
+    format("truetype");
+}
+
+.титулка{
+    background: white;
+    border-radius: 20px;
+    text-align: left;
+    height: 500px;
+    width: 100%;
+    font-size: 30px;
+    white-space: pre-wrap; 
+    padding-left: 100px;
+    font-size: "Roboto";
+}
+
+.block2 {
+    background-color: white;
+    padding: 100px;
+    white-space: nowrap;
+    font-size: 30px;
+
+}
+
+.blok999 {
+    background: white;
+    white-space: normal;   
+    width: 45%;
+    margin-right: 5%;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 10px;
+    padding: 20px;
+
+}
+
+.blok888 {
+    background: white;
+    white-space: normal;   
+    width: 45%;
+    margin-right: 5%;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.block3 {
+    background-color: #CCCCCC;
+    padding: 90px;
+    white-space: nowrap;
+    font-size: 25px;
+
+}
+
+.blok43 {
+    background: white;
+    white-space: normal;   
+    width: 45%;
+    margin-right: 5%;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 10px;
+    padding: 20px;
+
+}
+
+.blok54 {
+    background: white;
+    white-space: normal;   
+    width: 45%;
+    margin-right: 5%;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.blok65 {
+    background: white;
+    white-space: normal;   
+    width: 45%;
+    margin-right: 5%;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.blok74 {
+    background: white;
+    white-space: normal;   
+    width: 45%;
+    margin-right: 5%;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.block4 {
+    background-color: whitesmoke;
+    padding: 100px;
+    white-space: nowrap;
+    font-size: 30px;
+
+}
+
+
+.blok40 {
+    background: white;
+    white-space: normal;   
+    width: 82%;
+    margin-right: 5%;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 10px;
+    padding: 20px;
+
+}
+
+.block5 {
+    background-color: whitesmoke;
+    padding: 100px;
+    white-space: nowrap;
+    font-size: 30px;
+
+}
+
+
+.blok414 {
+    background: white;
+    white-space: normal;   
+    width: 45%;
+    margin-right: 5%;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 10px;
+    padding: 20px;
+
+}
+
+.blok525 {
+    background: white;
+    white-space: normal;   
+    width: 45%;
+    margin-right: 5%;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.block6 {
+    background-color: #CCCCCC;
+    padding: 100px;
+    white-space: nowrap;
+    font-size: 30px;
+
+}
+
+
+.blok44 {
+    background: white;
+    white-space: normal;   
+    width: 45%;
+    margin-right: 5%;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 10px;
+    padding: 20px;
+
+}
+
+.blok55 {
+    background: white;
+    white-space: normal;   
+    width: 45%;
+    margin-right: 5%;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.blok66 {
+    background: white;
+    white-space: normal;   
+    width: 45%;
+    margin-right: 5%;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.blok77 {
+    background: white;
+    white-space: normal;   
+    width: 45%;
+    margin-right: 5%;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.block7 {
+    background-color: #CCCCCC;
+    padding: 100px;
+    white-space: nowrap;
+    font-size: 30px;
+
+}
+
+
+.blok444 {
+    background: white;
+    white-space: normal;   
+    width: 45%;
+    margin-right: 5%;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 10px;
+    padding: 20px;
+
+}
+
+.blok555 {
+    background: white;
+    white-space: normal;   
+    width: 45%;
+    margin-right: 5%;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.block8 {
+    background-color: white;
+    padding: 100px;
+    white-space: nowrap;
+    font-size: 30px;
+
+}
+
+
+.blok81 {
+    background: white;
+    white-space: normal;   
+    width: 45%;
+    margin-right: 5%;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 10px;
+    padding: 20px;
+
+}
+
+.blok82 {
+    background: white;
+    white-space: normal;   
+    width: 45%;
+    margin-right: 5%;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 10px;
+    padding: 20px;
+}
